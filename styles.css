@@ -66,3 +66,24 @@ hr{
     font-weight: bold;
 }
 
+.hero{
+padding: 2rem ;
+
+}
+.hero .hero-img{
+    max-width: 500px;
+    display: block;
+   margin:auto;
+
+    
+}
+.hero .hero-heading{
+    padding-top: 1rem;
+    color: #475569;
+    text-align: center;
+}
+.heading-inverted{
+    color: var(--primary-color);
+}
+
+/* section */
