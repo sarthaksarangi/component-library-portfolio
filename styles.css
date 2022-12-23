@@ -12,7 +12,7 @@ body{
     padding: 0 2rem;
 }
 .container-center{
-    max-width: fit-content;
+    max-width: 600px;
     margin: auto;
 }
 
@@ -87,3 +87,10 @@ padding: 2rem ;
 }
 
 /* section */
+.section{
+    text-align: center;
+    padding:2rem;
+}
+.ow{
+    background-color: #e2e8f0;
+}
