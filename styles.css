@@ -83,6 +83,9 @@ padding: 2rem ;
     color: #475569;
     text-align: center;
 }
+.hero h1{
+    text-align: center;
+}
 .heading-inverted{
     color: var(--primary-color);
 }
@@ -114,4 +117,5 @@ footer{
 }
 .bold-txt{
     font-weight: bold;
+    font-size: large;
 }
