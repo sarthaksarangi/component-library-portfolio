@@ -20,7 +20,7 @@ body{
     background-color: var(--primary-color);
     border-radius: 0.5em;
     color: white;
-    padding: 0.6rem 1rem;
+    padding: 0.6rem 2rem;
     
     
     text-decoration: none;
@@ -30,7 +30,7 @@ body{
     border-radius: 0.5rem;
     color: var(--primary-color);
     border: 1.5px solid var(--primary-color);
-    padding: 0.6rem 1rem;
+    padding: 0.6rem 2rem;
     text-decoration: none;
 }
 hr{
