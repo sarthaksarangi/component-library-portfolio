@@ -22,7 +22,7 @@ body{
     color: white;
     padding: 0.6rem 2rem;
     letter-spacing: 1.5px;
-    
+   
     text-decoration: none;
 }
 .link-secondary{
@@ -33,6 +33,7 @@ body{
     padding: 0.6rem 2rem;
     text-decoration: none;
     letter-spacing: 1.5px;
+    
 }
 hr{
     margin: 2rem 0;
@@ -124,4 +125,9 @@ footer{
     max-width: 350px;
     display: block;
    margin:auto;
+}
+.li-heading{
+    margin-bottom: 0.5rem;
+    margin-top: 2.5rem;
+
 }
