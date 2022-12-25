@@ -10,11 +10,22 @@ body{
 }
 .container{
     padding: 0 2rem;
+    
 }
 .container-center{
     max-width: 600px;
     margin: auto;
 }
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+
 
 .link-primary{
     display: block;
@@ -27,9 +38,7 @@ body{
     text-decoration: none;
     margin-bottom: 1rem;
 }
-li{
-    text-align: center;
-}
+
 .link-secondary{
     display: block;
     border-radius: 0.5rem;
